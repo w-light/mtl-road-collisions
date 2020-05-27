@@ -1,0 +1,5 @@
+2016 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data
+COL2 - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data / No certificate, diploma or degree
+COL3 - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 25 to 64 years in private households - 25% sample data / Secondary (high) school diploma or equivalency certificate

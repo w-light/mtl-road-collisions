@@ -1,0 +1,4 @@
+2016 Census Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Family characteristics / Total number of census families in private households - 100% data
+COL2 - Family characteristics / Total number of census families in private households - 100% data / Total lone-parent families by sex of parent

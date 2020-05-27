@@ -1,0 +1,3 @@
+COL7 - Income - Total Sex / Prevalence of low income based on the Low-income cut-offs, after tax (LICO-AT) (%)
+COL10 - Labour - Total Sex / Unemployment rate
+
